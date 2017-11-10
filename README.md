@@ -1,23 +1,17 @@
-# githubavatar
-Get Github Avatar
-โปรแกรมสำหรับแสดงรูป avatar บน github ของผู้ใช้
+#linux-lab
 
-## วิธีใช้งาน
-- ติดตั้ง package ที่จำเป็นสำหรับโปรแกรม
+> ผู้พัฒนาโครงการ  Jiasak Chaiyo
 
-```sh
-pip install --user requests Pillow
-```
+> รหัสนักศึกษา	59110440091
 
-## ติดตั้งโปรแกรม githubavatar 
-```sh
-pip install --user .
-```
+## จุดประสงค์
 
-## วิธีการใช้งาน
-```sh
-githubavatar wichit2s
-githubavatar joinshena
-```
+> ฝึกใช้ python ทำ CLI โปรแกรมตามแบบ githubavatar
 
-# linux-lab
+## สิ่งที่จะพัฒนาตัวเองให้ดีขึ้น
+
+1. จะตั้งใจเรียน
+2. ไม่เอามือถือขึ้นมาเล่นอีกแล้ว
+3. จะตั้งอ่านสอบปลายภาคทุกวิชา
+4. ลดการเที่ยว
+5. มาเรียนไม่สาย
